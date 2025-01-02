@@ -46,7 +46,9 @@ This dashboard provides a comprehensive analysis of healthcare data, focusing on
 - Expand data to include hospital performance metrics.
 
 ### Contact
-For any queries or contributions, feel free to reach out at [Your Contact Information].
+For any queries or contributions, feel free to reach out at.
+www.linkedin.com/in/keerthi-raj-manickam-3241ab219
+rkeerthi348@gmail.com
 
 ---
 
