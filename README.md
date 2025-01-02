@@ -48,7 +48,6 @@ This dashboard provides a comprehensive analysis of healthcare data, focusing on
 ### Contact
 For any queries or contributions, feel free to reach out at.
 www.linkedin.com/in/keerthi-raj-manickam-3241ab219
-rkeerthi348@gmail.com
 
 ---
 
